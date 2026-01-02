@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 from sseclient import SSEClient
 
 # ---------------- CONFIG ----------------
-BOT_TOKEN = "8349904203:AAGNaeNpSiATHkP2Ihy5m_d1bBWNre9BAdc"
+BOT_TOKEN = "8345516925:AAEXyXQDaid8pJJ1dhDx5uZKBXM3WhhOdS4"
 
 if not BOT_TOKEN or BOT_TOKEN.strip() == "":
     print("❌ BOT_TOKEN missing inside ra.py file!")
